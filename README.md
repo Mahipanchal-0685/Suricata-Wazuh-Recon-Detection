@@ -60,9 +60,23 @@ The rule path and monitored interface were corrected, allowing Suricata to succe
 
 ---
 
-## Screenshots
+## Evidence
 
-Project evidence can be found in the `screenshots` directory.
+### Nmap Reconnaissance Scan
+
+![Nmap Scan](screenshots/01-nmap-scan.png)
+
+### Detection in Wazuh Dashboard
+
+![Wazuh Dashboard Alert](screenshots/02-wazuh-dashboard-alert.png)
+
+### Suricata Alert Events
+
+![eve.json Alerts](screenshots/03-eve-json-alerts.png)
+
+### Wazuh Log Ingestion
+
+![Wazuh Log Ingestion](screenshots/04-wazuh-log-ingestion.png)
 
 ---
 
